@@ -1,0 +1,26 @@
+Cust ID,First Name,Middle Name,Last Name,Prefix,Suffix,Address Line 1,Address Line 2,City,State,Zip,DOB
+CustID_433,Nick,,Sample,,,123 Main Street,,Anytown,Rhode Island,12345-1234,1957/10/27
+CustID_440,Curtis,Michael,Ditch,,,107 Toucan Way,,Lexington,South Carolina,290739304,1972/05/28
+CustID_442,Jane,Maria,Sample,,,123 Main Street,,Anytown,South Carolina,123451111,1970/04/07
+CustID_502,Nick,,Sample,,,445 East Capitol Avenue,,Pierre,South Dakota,57501-1234,1967/12/01
+CustID_507,Janice,,Sample,,,123 Main Street,Apt 1,Nashville,Tennessee,37210-1234,1966/11/02
+CustID_508,Janice,,Sample,,,2120 Old Main Street,,Anytown,Texas,12345-0000,1976/07/30
+CustID_509,A Driver,,Sample,,,12012 River Hills,,Aspen,Texas,12345,1990/09/21
+CustID_510,Joan,,Sample,,,12 Cottonwood Rd,,East Texas Center,Texas,12345-0000,1983/12/08
+CustID_513,Esteban,,Banda,,,1021 Cielo Vista Dr,,Grand Prairie,Texas,75052,2002/12/05
+CustID_514,Sally,,Sample,,,123 Sample Dr,,Salt Lake City,Utah,84130-0560,1984/11/13
+CustID_515,John,Lewis,Sample,,,200 South Main Street,,Salt Lake City,Utah,84115,1969/10/27
+CustID_517,Firstname,Middlename,Lastname,,Suffix,Address Line 1,Address line 2,City,Vermont,00000-1234,1967/12/01
+CustID_519,Suzy,A,sample,,,123 Street address,Address line 2,Montpelier,Vermont,12345-1234,2002/10/20
+CustID_520,John,A,Sample,,,123 Street address,,Montpelier,Vermont,12345-1234,1958/06/01
+CustID_521,Suzy,A,Sample,,,123 Street address,Address line 2,Montpelier,Vermont,12345-1234,2001/10/20
+CustID_523,Juliana,Aline,Maldonado,,,5700 Southpoint Centre,,Fredericksburg,Virginia,22407,2007/01/19
+CustID_524,Alexandra,Victoria,Aldana,,,4150 S.Four Mile Run Dr,,Arlington,Virginia,22206,1992/08/17
+CustID_525,Alyssa,Faith,James,,,2300 West Broad Street,,Richmond,Virginia,23220,1988/12/12
+CustID_526,Suzy,Aline,Sample,,,123 Street Address,,Your city,Washington,99999-1234,1997/06/01
+CustID_527,John,A,Sample,,,123 Street address,,your city,Washington,99999-0000,1958/06/01
+CustID_528,John,A,Sample,,,123 Street address,,your city,Washington,99999-0000,1958/04/09
+CustID_531,Mateo,,Sample,,,"123 North Main Street Anytown, WV 26317-1234",,Anytown,West Virginia,25317-1234,1985/09/20
+CustID_533,Janice,,Sample,,,"123 North Main Street Apt. 1 Madison, WI 55405",,Madison,Wisconsin,55405,1982/01/12
+CustID_536,Jennifer,Amy,Sample,,,"4802 Sheboygan Ave Madison, WI 53705",,,Wisconsin,53705,1976/03/14
+CustID_540,Thor,T,Odison,,,"69 Big Hammer Way City, WY 00000-0000",,City,Wyoming,00000-0000,1978/01/01

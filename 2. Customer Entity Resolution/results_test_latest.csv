@@ -1,0 +1,28 @@
+Cust ID,First Name,Middle Name,Last Name,Prefix,Suffix,Address Line 1,Address Line 2,City,State,Zip,DOB
+CustID_299,Samantha,Driver,Sample,,,"123 Sample St Jefferson City, MO 65105",,Jefferson City,Missouri,65105,1979/02/14
+CustID_300,Mateo,Thomas,Sample,,Jr,"123 Sample St Jefferson City, MO 65109",,Jefferson City,Missouri,65109,1994/02/01
+CustID_301,Francesca,,Sample,,,"Apt. 1 Jefferson City, MO 65109",,Jefferson City,Missouri,65109,1973/02/01
+CustID_306,Brenda,Lynn,Sample,,,123 Main Street,,Helena,Montana,59601,1968/04/08
+CustID_307,Susan,Catherine,Sample,,,12345 Highland Avenue,,Helena,Montana,,1988/05/30
+CustID_308,Idgod,,Ch,,,123 Idgod.ch,,Helena,Montana,59601,1996/08/09
+CustID_310,Heidi,,Sample,,,123 Main Street,,Anytown,Nebraska,12345,2002/12/01
+CustID_312,Heidi,,Sample,,,123 Main Street,,Anytown,Nebraska,12345,1967/12/01
+CustID_315,Sharon,N,Morgan,,,104 Walnut Street,,Nashua,New Hampshire,,1951/11/24
+CustID_319,First,Middle,Last Name,,Suffix,123 North State Street,,Trenton,New Jersey,08666-1234,1956/05/20
+CustID_401,Lani,,Sample,,,123 State Street,,Albuquerque,New Mexico,87102,1957/01/03
+CustID_406,Sample,License,Document,,,2344 Anyplave Ave,,Anytown,New York,12345,1985/12/30
+CustID_407,Michael,M,Motorist,,,2345 Anywhere Street,,Your city,New York,12345,1978/08/31
+CustID_409,John,,Doe,,,1100 New Bern Avenue,,Raleigh,North Carolina,27697-0001,1998/04/08
+CustID_410,Trena,,Doe,,,421 UAT BLVD,,Raleigh,North Carolina,27697-0001,1968/12/25
+CustID_411,Jane,,Doe,,,123 Anywhere Dr,,Raleigh,North Carolina,27697-0001,1980/04/07
+CustID_412,Jane,,Doe,,,1100 New Bern Avenue,,Raleigh,North Carolina,27697-0001,1957/08/15
+CustID_418,Thor,Thunder,Odinson,,,69 Big Hamme Ln,,Columbus,Ohio,43223,1970/06/22
+CustID_419,Jane,,Doe,,,123 Anywhere St,,Anytown,Ohio,12345,1990/10/09
+CustID_420,Omar,,Williams,,,123 Anywhere Street,,Anytown,Ohio,12345,2000/09/16
+CustID_421,John,,Doe,,,123 Anywhere St,,Twinsburg,Ohio,44087,1990/09/16
+CustID_422,Sally,Ann,Sample,,,Sample Card/ Not a DL,,Oklahoma City,Oklahoma,73111-0000,1980/01/01
+CustID_423,Nick,,Sample,,,123 State St.,,Oklahoma City,Oklahoma,73102-1234,1967/12/01
+CustID_424,Sallly,,Sample,,,123 S Main,,Yukon,Oklahoma,73099-0000,1978/02/04
+CustID_425,Jack,Daxi,Legitvendor,,US,3838 E Los Angeles Ave,Apt 1,Somis,,93066,1960/07/08
+CustID_426,Oregon,Sample,Card,,SR,1906 Lana Ave NE,,Salem,Oregon,97314,1979/12/12
+CustID_430,Evelyn,T,Sample,,,1101 S.Front Street,,Harrisburg,Pennsylvania,17104,1974/04/25

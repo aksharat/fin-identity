@@ -1,0 +1,96 @@
+Cust ID,First Name,Middle Name,Last Name,Prefix,Suffix,Address Line 1,Address Line 2,City,State,Zip,DOB
+CustID_102,HAPPY,,TRAVELLER,,,,,,,,1965/02/05
+CustID_103,DILSON,,ROCKLIN,,,,,,,,1983/03/15
+CustID_104,HAPPY,,TRAVELLER,,,,,,,,1981/01/01
+CustID_106,HAPPY,,TRAVELLER,,,,,,,,1981/01/01
+CustID_108,AARON,,WARNER,,,,,,,,1987/11/24
+CustID_109,AMY,,BALDWIN,,,,,,,,1990/03/23
+CustID_110,JOHNATHAN,,SMITH,,,,,,,,1972/07/07
+CustID_112,JENNIFER,,GONZALEZ,,,,,,,,2000/09/01
+CustID_113,PHILIP,,VALDEZ,,,,,,,,1964/08/14
+CustID_114,DANNY,,ARMSTRONG,,,,,,,,1964/07/02
+CustID_115,VALERIE,,KAUFMAN,,,,,,,,1973/09/18
+CustID_116,WILLIAM,,DUARTE,,,,,,,,1996/08/02
+CustID_117,JOSEPH,,MORROW,,,,,,,,1994/07/28
+CustID_118,ROBERT,,HODGE,,,,,,,,1972/08/15
+CustID_119,LYN,,GOODMAN,,,,,,,,1971/02/15
+CustID_120,ROBERT,,WILLIAMS,,,,,,,,1982/10/29
+CustID_121,WILLIAM,,RICHARDSON,,,,,,,,1973/08/24
+CustID_122,TODD,,TAYLOR,,,,,,,,1960/11/14
+CustID_125,JASON,,LOPEZ,,,,,,,,1995/04/25
+CustID_126,CYNTHIA,,FLORES,,,,,,,,1993/09/21
+CustID_127,TAMMY,,DALTON,,,,,,,,1970/09/25
+CustID_128,EVELYN,,JENNINGS,,,,,,,,1972/03/09
+CustID_129,STEVE,,GORDON,,,,,,,,1967/09/01
+CustID_130,EMILY ,,JUAREZ,,,,,,,,1977/07/02
+CustID_131,HAPPY,,TRAVELLER,,,,,,,,1981/01/01
+CustID_132,HAPPY,,TRAVELLER,,,,,,,,1965/02/05
+CustID_133,TRACEY,JAMES,SMITH,,,,,,,,1976/05/17
+CustID_134,HAPPY,,TRAVELLER,,,,,,,,1981/01/01
+CustID_135,HAPPY,,TRAVELLER,,,,,,,,1981/01/01
+CustID_136,FRANK,,MOSS,,,,,,,,1990/01/01
+CustID_002,JOCELYN,,SMITH,,,,,,,,1980/02/21
+CustID_003,COSETTE,,BERNARD,,,,,,,,1942/11/18
+CustID_004,ICHIKA,,STEVENS,,,,,,,,1988/08/18
+CustID_005,YARA,,BONDARENKO,,,,,,,,1991/03/11
+CustID_006,MINA,,MELETIS,,,,,,,,1990/10/14
+CustID_007,TEST V,,SPECIMEN,,,,,,,,1958/08/17
+CustID_008,DUMITRU,,MELETIS,,,,,,,,1990/10/14
+CustID_009,TEST V,,SPECIMEN,,,,,,,,1958/08/17
+CustID_011,VOID V,,VOID,,,,,,,,2020/01/01
+CustID_012,TEST W,,SPECIMEN,,,,,,,,1980/01/01
+CustID_013,AATISH A,,TASEER,,,,,,,,1980/11/27
+CustID_016,TEST V,,SPECIMEN,,,,,,,,1920/01/01
+CustID_017,VOID V,,VOID,,,,,,,,2020/01/01
+CustID_018,CHOW,,LAI PING,,,,,,,,1950/07/10
+CustID_019,TEST V,,SPECIMEN,,,,,,,,1958/08/17
+CustID_020,TEST V,,SPECIMEN,,,,,,,,1958/08/17
+CustID_025,GARCIA LOPEZ,,ROSA MARIA,,,,,,,,1956/05/23
+CustID_028,JOSE,,PRINCE,,,,,,,,1978/03/12
+CustID_029,TEST V,,SPECIMEN,,,,,,,,1920/01/01
+CustID_031,MOHINI,,VERMA,,,,,,,,1981/10/08
+CustID_032,TEST V,,SPECIMEN,,,,,,,,1920/01/01
+CustID_202,Tao,,Sample,,,1234 Sample Street Union Drove AL 35175-5107,,Union Grove,Alabama,35175-5107,2000/05/06
+CustID_207,Test,,Alaska,,Jr,"123 Sample Street Anchorage, AK 99501",,Anchorage,Alaska,99501,2005/07/11
+CustID_208,Tina,M,Sample,,,"123 Anystreet Anchorage, AK 99999",,Anchorage,Alaska,99999,1984/02/01
+CustID_209,Commercial,Test,Sample,,,"12345 Sample Street UNALASKA, AK 99655",,Unalaska,Alaska,99655,1985/06/03
+CustID_210,Samantha,Jane,Sample,,,1801 W Jefferson St Phoenix Az 85007-3230,,Phoenix,Arizona,85007-3230,1963/05/01
+CustID_213,Fred,Edward,Kratz,,,5721 Stoney Dr Bullhead City AZ 86430,,Bullhead City,Arizona,86430,1910/08/08
+CustID_215,Janice,,Sample,,,"123 Main St Phoenix, AZ 85007",,Phoenix,Arizona,85007,1998/01/01
+CustID_231,Janice,,Sample,,,"2230 Hessler Boulevard New Castle, DE 19720-0000",,New Castle,Delaware,19720-0000,1970/04/30
+CustID_234,Florida,Sample,Driver,,,"2900 Apalachee PKWY Tallahassee, FL 32399",,Tallahassee,Florida,32399,2003/08/06
+CustID_235,Ronald,Roland,Day,,,"1132 Barber Dr Daytona beach, FL 32017",,Daytona Beach,Florida,32017,1988/07/27
+CustID_236,Roger,Eugene,Maris,,,"6405 SW 36 Way Gainesvile, FL 32601",,Gainesville,Florida,32601,1934/09/10
+CustID_237,Florida,Sample,Driver,,,"2900 Apalachee PKWY Tallahassee, FL 32399",,Tallahassee,Florida,32399,1983/10/10
+CustID_242,Douglas,,Kalembo,,,"6792 Pine valley TRCE Stone MTN, GA 30087-5818",,Stone Mtn,Georgia,30087-5818,1970/07/24
+CustID_244,Leilani,A,Sample,,,"123 Any Street Anytown, HI., 00000",,Anytown,Hawaii,"""00000",1979/01/01
+CustID_245,Becky,Sue,Turner,,,"7101 El Caballa Boise, ID 83704",,Boise,Idaho,83704,1969/07/18
+CustID_246,Thomas,,Armstrong,,,"123 W. State Street Boise, ID 83707",,Boise,Idaho,83707,1980/10/01
+CustID_247,Connor,,Sample,,,"2727 Pierce Park Road Apt: 11 Boise, ID 83707-1129",,Boise,Idaho,83707-1129,1993/08/01
+CustID_248,Jelani,,Sample,,,"Address Line 1 Address Line 2 Boise, ID 83707-0000",,Boise,Idaho,83707-0000,1980/01/05
+CustID_249,Jane,Q,Public,,,"1234 Main Street Springfield, IL 62723",,Springfield,Illinois,62723,1987/11/14
+CustID_250,Thor,Thunder,IDVIKING.com,,,69 Big Hammer Way North Barrington. IL 60010,,,Illinois,60010,2003/10/17
+CustID_252,Jane,Q,Public,,,"1234 Main Street Springfield, IL 62723",,Springfield,Illinois,62723,1987/11/14
+CustID_256,Hayley,,Sample,,,"123 North Main St. Apt. 1 Des Moines, IA 50301-0000",,Des Moines,Iowa,50301-0000,1992/06/06
+CustID_257,Connor,,Sample,,,"123 North Main St. Apt. 1 Des Moines, IA 50301-0000",,Des Moines,Iowa,50301-0000,1942/06/06
+CustID_261,Test,One,Sample,,,"RR 2 Holton, KS 66436",,Holton,Kansas,66436,1962/04/23
+CustID_264,Zachary,,Sample,,,"123 Sample Street Apt. 2 Frankfort, KY 40622",,Frankfort,Kentucky,40622,2003/01/01
+CustID_265,John,,Sample,,,"123 Sample Street Apt. 2 Frankfort, KY 40622",,Frankfort,Kentucky,40622,1980/07/15
+CustID_266,Nick,,Sample,,,"100 Main Street Apt. 1 Frankfort, KY 40601-0000 Breckinridge County",,,Kentucky,40601-0000,1977/04/01
+CustID_267,Janice,Elizabeth,Sample,,,"434 Sample Street Apt. 2 Frankfort, KY 40622",,,Kentucky,40622,2003/01/01
+CustID_268,Jelani,,Sample,,,"123 North Main Street Apt. 1 Baton Rouge, LA 70806-1234",,Baton Rougue,Louisiana,70806-0000,1973/10/10
+CustID_271,Nick,,Sample,,,"123 State Street Apt 1 Augusta, ME 04330-1234",,Augusta,Maine,04330-1234,1967/01/12
+CustID_273,Nick,,Sample,,,"1 Tenth Street Apt 1 Augusta, ME 04330-1234",,Augusta,Maine,04330,1967/01/12
+CustID_276,Jane,Diane,Sample,,,123 Any Street Burnie MD 21062,,Burnie,Maryland,21062,1985/07/07
+CustID_277,Jason,Thomas,Sample,,,123 Any Street Burnie MD 21062,,Glen Burnie,Maryland,21062,1992/02/18
+CustID_278,Jane,Diane,Sample,,,123 Any Street Glen Burnie MD 21062,,Glen Burnie,Maryland,21062,1985/07/07
+CustID_279,First,Middle,Last Name,,,1 Copley PL Boston MA 02116-6592,,Boston,Massachusetts,02116-6592,1955/01/22
+CustID_281,Avery ,,Sample,,,"123 North Main Street Apt. 1 North Quincy, MA 02171-1748",,,Massachusetts,02171-1748,1997/01/12
+CustID_282,Connor,,Sample,,,"123 North Main Street Apt. 1 North Quincy, MA 02171-1748",,North Quincy,Massachusetts,02171-1748,1959/01/12
+CustID_283,Hayley,,Sample,,,"123 North Main Street Apt. 1 North Quincy, MA 02171-1748",,,Massachusetts,02171-1748,2000/01/12
+CustID_284,Janice ,,Sample,,,"123 North Main Street Apt. 1 North Quincy, MA 02169-1748",,,Massachusetts,02169-1748,1993/01/12
+CustID_286,June,Marie,Sample,,,"123 North State St. Lansing, MI 48918-0000",,Lansing,Michigan,48918-0000,1984/05/01
+CustID_288,June,Marie,Sample,,,"123 North State St. Lansing, MI 48918-0000",,Lansing,Michigan,48918-0000,1984/05/01
+CustID_289,Mateo,,Sample,,,"123 North State St. Lansing, MI 48918-0000",,,Michigan,48918-0000,1996/08/10
+CustID_291,Avery,,Sample,,,"123 North State St. Lansing, MI 48918-0000",,,Michigan,48918-0000,2018/09/01
+CustID_295,Joseph,George,Ingram,,,"123 Main Street Small Town, MS  39999",,Small Town,Mississippi,39999,1948/12/31
